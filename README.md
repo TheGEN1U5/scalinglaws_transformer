@@ -1,4 +1,4 @@
-\# Scaling Laws and the Transformer architecture
+# Scaling Laws and the Transformer architecture
 
 
 
@@ -15,6 +15,5 @@ In this notebook you will find:
 * Implementation of two scaling laws mentioned in the Scaling Laws for Neural Language Models paper
 
 &nbsp;	1. Performance with Non-Embedding Parameter Count N follows a power law
-
 &nbsp;	2. Performance with Dataset Size D follows a power law
 
